@@ -4,8 +4,8 @@ CAPS Phase 1: Begin the build of an application for a company called CAPS - The 
 -------------------------------------------------
 
 
-[PR]()
-[GitHuB Action]()
+[PR](https://github.com/rujeenaal-zyoud/caps/pulls?q=is%3Apr+is%3Aclosed)
+[GitHuB Action](https://github.com/rujeenaal-zyoud/caps/actions/workflows/node.js.yml)
 
 ## setup
 .env requirements
